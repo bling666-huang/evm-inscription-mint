@@ -1,7 +1,7 @@
 {
   "name": "emv-inscription-mint",
   "version": "0.0.1",
-  "description": "Simple BIP39 Ethereum Address Generator",
+  "description": "emv-inscription-mint",
   "author": "bling666-huang",
   "license": "MIT",
   "main": "index.js",
